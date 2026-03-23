@@ -1,0 +1,5 @@
+Date,Type,Payment Amount,Interest,Principal,Principal Remaining,Cumulative Interest Paid,Cumulative Principal Paid,Cumulative Total Paid,Principal Paid %
+2026-04,Monthly,2000.00,1150.00,850.00,399150.00,1150.00,850.00,2000.00,0.213 %
+2026-05,Monthly,2000.00,1147.81,852.19,398297.81,2297.81,1702.19,4000.00,0.426 %
+2026-06,Monthly,2000.00,1145.61,854.39,397443.42,3443.42,2556.58,6000.00,0.639 %
+2026-07,Monthly,2000.00,1143.41,856.59,396586.83,4586.83,3413.17,8000.00,0.853 %
